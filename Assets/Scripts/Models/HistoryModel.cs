@@ -8,5 +8,6 @@ namespace AMVC.Models
         public int id;
         public string title;
         public string details;
+        
     }
 }

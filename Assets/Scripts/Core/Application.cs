@@ -76,6 +76,7 @@ namespace AMVC.Core
                 case SceneName.Main: 
                     GetSystem<HistorySystem>().Generate();
                     GetSystem<MissionsSystem>().Generate();
+                    GetSystem<ShipSystem>().Generate();
                     break;
             }
         }

@@ -9,5 +9,6 @@ namespace AMVC.Core
     {
         public List<MissionModel> missions;
         public List<HistoryModel> history;
+        public List<ShipModel> ships;
     }
 }

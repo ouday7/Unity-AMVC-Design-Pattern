@@ -11,12 +11,14 @@ namespace AMVC.Views.Main
     {
         [SerializeField] private Button missionBtn;
         [SerializeField] private Button historyBtn;
+        [SerializeField] private Button shipsBtn;
 
         protected override void ReleaseReferences()
         {
             base.ReleaseReferences();
             missionBtn = null;
             historyBtn = null;
+            shipsBtn = null;
         }
 
         public override void Initialize(AppView view, Application app)
@@ -24,6 +26,7 @@ namespace AMVC.Views.Main
             base.Initialize(view, app);
             this.missionBtn.onClick.AddListener(OpenMissionPanel);
             this.historyBtn.onClick.AddListener(OpenHistoryPanel);
+            this.shipsBtn.onClick.AddListener(OpenShipsPanel);
         }
 
         private void OpenHistoryPanel()
@@ -39,6 +42,13 @@ namespace AMVC.Views.Main
             ClosePanel(() =>
             {
                 GetPanel<MissionPanel>().OpenPanel();
+            });
+        }
+        private void OpenShipsPanel()
+        {
+            ClosePanel(() =>
+            {
+                GetPanel<ShipPanel>().OpenPanel();
             });
         }
     }

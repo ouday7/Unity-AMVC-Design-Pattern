@@ -44,6 +44,7 @@ namespace AMVC.Views.Main.History
         {
             this.titleTxt.text = model.title;
             this.detailsTxt.text = model.details;
+         //   this.idText.text = model.details;
         }
 
         public void Remove()

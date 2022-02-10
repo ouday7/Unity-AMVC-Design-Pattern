@@ -5,266 +5,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="00a41b36-7d6f-4bbd-b363-8089e7beca46" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-AMVC-Design-Pattern/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-AMVC-Design-Pattern/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Unity-AMVC-Design-Pattern/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-AMVC-Design-Pattern/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-AMVC-Design-Pattern/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-AMVC-Design-Pattern/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-AMVC-Design-Pattern/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-AMVC-Design-Pattern/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-AMVC-Design-Pattern/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Loading.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Loading.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/AppScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/AppScene.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-AMVC-Design-Pattern/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/PathologicalGames/PoolManager/PoolManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/PathologicalGames/PoolManager/PoolManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/AppModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/AppModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Core/Application.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Core/Application.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Helper/DataBaseManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Helper/DataBaseManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Helper/ApiList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Helper/ApiList.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Models/HistoryModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Models/HistoryModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Systems/Loading/LoadingSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Systems/Loading/LoadingSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Views/Loading/LoadingPanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Views/Loading/LoadingPanel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Views/Main/Missions/MissionItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Views/Main/Missions/MissionItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Views/Main/History/HistoryItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Views/Main/History/HistoryItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Views/Main/MenuPanel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Views/Main/MenuPanel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Loading/LoadingSystem.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-              <folding>
-                <marker date="1611746756685" expanded="false" signature="6:231" ph="..." />
-                <marker date="1611746756685" expanded="true" signature="263:2103" ph="{...}" />
-                <marker date="1611746756685" expanded="true" signature="308:2101" ph="{...}" />
-                <marker date="1611746756685" expanded="true" signature="736:822" ph="{...}" />
-                <marker date="1611746756685" expanded="true" signature="914:1154" ph="{...}" />
-                <marker date="1611746756685" expanded="true" signature="1190:1938" ph="{...}" />
-                <marker date="1611746756685" expanded="true" signature="1978:2095" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Core/Application.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="43" column="27" lean-forward="true" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
-              <folding>
-                <marker date="1611749931795" expanded="false" signature="6:227" ph="..." />
-                <marker date="1611749931795" expanded="true" signature="248:4003" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="276:326" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="371:4001" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="771:1015" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="816:921" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="1044:1142" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="1183:1375" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="1418:1546" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="1599:1671" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="1723:1833" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="1902:2101" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="2164:2566" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="2344:2556" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="2609:2726" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="2801:2924" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="3003:3143" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="3224:3366" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="3445:3539" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="3579:3752" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="3613:3742" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="3813:3880" ph="{...}" />
-                <marker date="1611749931795" expanded="true" signature="3935:3995" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Loading/CommandDp/LoadingCommand.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-              <folding>
-                <marker date="1611742656916" expanded="false" signature="6:141" ph="..." />
-                <marker date="1611742656916" expanded="true" signature="183:1145" ph="{...}" />
-                <marker date="1611742656916" expanded="true" signature="231:1143" ph="{...}" />
-                <marker date="1611742656916" expanded="true" signature="424:473" ph="{...}" />
-                <marker date="1611742656916" expanded="true" signature="504:722" ph="{...}" />
-                <marker date="1611742656916" expanded="true" signature="773:902" ph="{...}" />
-                <marker date="1611742656916" expanded="true" signature="933:984" ph="{...}" />
-                <marker date="1611742656916" expanded="true" signature="1043:1137" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/MissionModel.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-              <folding>
-                <marker date="1611245986307" expanded="true" signature="39:216" ph="{...}" />
-                <marker date="1611245986307" expanded="true" signature="97:214" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Models/HistoryModel.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding>
-                <marker date="1611245986352" expanded="true" signature="39:194" ph="{...}" />
-                <marker date="1611245986352" expanded="true" signature="97:192" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Helper/DataBaseManager.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="52" column="49" lean-forward="true" selection-start-line="52" selection-start-column="49" selection-end-line="52" selection-end-column="49" />
-              <folding>
-                <marker date="1611740032677" expanded="false" signature="6:31" ph="..." />
-                <marker date="1611740032677" expanded="true" signature="73:2243" ph="{...}" />
-                <marker date="1611740032677" expanded="true" signature="115:2240" ph="{...}" />
-                <marker date="1611740032677" expanded="true" signature="507:701" ph="{...}" />
-                <marker date="1611740032677" expanded="true" signature="764:1127" ph="{...}" />
-                <marker date="1611740032677" expanded="true" signature="826:1116" ph="{...}" />
-                <marker date="1611740032677" expanded="true" signature="1325:1694" ph="{...}" />
-                <marker date="1611740032677" expanded="true" signature="1419:1564" ph="{...}" />
-                <marker date="1611740032677" expanded="true" signature="1595:1681" ph="{...}" />
-                <marker date="1611740032677" expanded="true" signature="1846:2225" ph="{...}" />
-                <marker date="1611740032677" expanded="true" signature="1951:2096" ph="{...}" />
-                <marker date="1611740032677" expanded="true" signature="2127:2213" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Views/Loading/LoadingPanel.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-              <folding>
-                <marker date="1611740091757" expanded="true" signature="6:35" ph="..." />
-                <marker date="1611740091757" expanded="true" signature="87:388" ph="{...}" />
-                <marker date="1611740091757" expanded="true" signature="130:386" ph="{...}" />
-                <marker date="1611740091757" expanded="true" signature="304:380" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Loading/CommandDp/ICommand.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding>
-                <marker date="1611742656776" expanded="true" signature="6:66" ph="..." />
-                <marker date="1611742656776" expanded="true" signature="108:221" ph="{...}" />
-                <marker date="1611742656776" expanded="true" signature="139:219" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Loading/CommandDp/CommandInvoker.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="51" column="37" lean-forward="true" selection-start-line="51" selection-start-column="37" selection-end-line="51" selection-end-column="37" />
-              <folding>
-                <marker date="1611742872216" expanded="false" signature="6:171" ph="..." />
-                <marker date="1611742872216" expanded="true" signature="213:2407" ph="{...}" />
-                <marker date="1611742872216" expanded="true" signature="259:2405" ph="{...}" />
-                <marker date="1611742872216" expanded="true" signature="646:765" ph="{...}" />
-                <marker date="1611742872216" expanded="true" signature="815:881" ph="{...}" />
-                <marker date="1611742872216" expanded="true" signature="917:1157" ph="{...}" />
-                <marker date="1611742872216" expanded="true" signature="1194:2195" ph="{...}" />
-                <marker date="1611742872216" expanded="true" signature="1318:1599" ph="{...}" />
-                <marker date="1611742872216" expanded="true" signature="1640:1834" ph="{...}" />
-                <marker date="1611742872216" expanded="true" signature="1876:2011" ph="{...}" />
-                <marker date="1611742872216" expanded="true" signature="2237:2399" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppSystem.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <marker date="1611587338454" expanded="false" signature="6:43" ph="..." />
-                <marker date="1611587338454" expanded="true" signature="64:1501" ph="{...}" />
-                <marker date="1611587338454" expanded="true" signature="122:1499" ph="{...}" />
-                <marker date="1611587338454" expanded="true" signature="377:460" ph="{...}" />
-                <marker date="1611587338454" expanded="true" signature="547:679" ph="{...}" />
-                <marker date="1611587338454" expanded="true" signature="730:796" ph="{...}" />
-                <marker date="1611587338454" expanded="true" signature="853:920" ph="{...}" />
-                <marker date="1611587338454" expanded="true" signature="956:1007" ph="{...}" />
-                <marker date="1611587338454" expanded="true" signature="1083:1129" ph="{...}" />
-                <marker date="1611587338454" expanded="true" signature="1209:1256" ph="{...}" />
-                <marker date="1611587338454" expanded="true" signature="1334:1380" ph="{...}" />
-                <marker date="1611587338454" expanded="true" signature="1464:1493" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Loading/CommandDp/CommandInvoker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/MissionModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/PoolSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Main/Missions/MissionPanel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Loading/LoadingSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/RequiredTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/EnableIfTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/OnValueChangedTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Loading/CommandDp/LoadingCommand.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/ProgressBarTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Loading/CommandDp/ICommand.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Loading/LoadingPanel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helper/ApiList.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/DropdownTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppPanel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Main/MenuPanel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Main/History/HistoryPanel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/ReorderableListTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Main/History/HistoryItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB4ED992-9FE0-4849-BBE2-B059CBA4D31F/4d/fabb50ca/ScriptableObject.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/MinMaxValueTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/HorizontalLineTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helper/DataBaseManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Addons/RestClient/Packages/Proyecto26.RestClient/Helpers/JsonHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/BaseMonoBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Main/HistorySystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Main/MissionsSystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/ValidateInputTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Main/Missions/MissionItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/IPoolItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Main/Missions/MissionPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Addons/RestClient/Packages/Proyecto26.RestClient/Helpers/JsonHelper.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Main/Missions/MissionPopup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/ExpandableTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/HistoryModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Main/MissionsSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Loading/LoadingPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Loading/CommandDp/ICommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Loading/CommandDp/CommandInvoker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helper/DataBaseManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/PoolSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppParameters.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/BaseMonoBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/DropdownTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/IPoolItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/EnableIfTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/EnumFlagsTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Models/HistoryModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/ExpandableTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/HorizontalLineTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Main/HistorySystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Main/History/HistoryPanel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Application.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/MinMaxSliderTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/MinMaxValueTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/OnValueChangedTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/ProgressBarTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Main/History/HistoryItem.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/ValidateInputTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppParameters.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/EnumFlagsTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/ReorderableListTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Loading/CommandDp/LoadingCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Addons/NaughtyAttributes/Scripts/Test/RequiredTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/AppController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Views/Main/MenuPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helper/ApiList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Systems/Loading/LoadingSystem.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -313,6 +121,7 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectId" id="24n1iqWgE7ZxvyLNBAEg7tVTdsr" />
   <component name="ProjectView">
     <navigator currentView="UnityExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -429,39 +238,44 @@
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
       <method v="2" />
     </configuration>
     <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -477,6 +291,10 @@
       <workItem from="1611564841233" duration="12946000" />
       <workItem from="1611659405751" duration="6947000" />
       <workItem from="1611737035197" duration="9646000" />
+      <workItem from="1644251824960" duration="1181000" />
+      <workItem from="1644309885176" duration="21088000" />
+      <workItem from="1644395331478" duration="23391000" />
+      <workItem from="1644481770135" duration="16523000" />
     </task>
     <servers />
   </component>
@@ -527,10 +345,13 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
-  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -538,6 +359,32 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Core/AppView.cs</url>
+          <line>34</line>
+          <properties documentPath="C:\Users\akrem\OneDrive\Bureau\GameEditorV1\Unity-AMVC-Design-Pattern\Assets\Scripts\Core\AppView.cs" initialLine="34" containingFunctionPresentation="method 'ReleaseReferences'">
+            <startOffsets>
+              <option value="948" />
+            </startOffsets>
+            <endOffsets>
+              <option value="963" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/Views/Main/Ship/shipItem.cs</url>
+          <line>95</line>
+          <properties documentPath="C:\Users\akrem\OneDrive\Bureau\GameEditorV1\Unity-AMVC-Design-Pattern\Assets\Scripts\Views\Main\Ship\shipItem.cs" initialLine="98" containingFunctionPresentation="method 'Select'">
+            <startOffsets>
+              <option value="3281" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3282" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
